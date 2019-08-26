@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2015.09-Present: Ph.D. candidate (direct doctor program),  Department of Computer Science and Technology, Nanjing University,       Nanjing, Jiangsu, China.
+* 2011.09-2015.06: B.S., Computer Science and Technology, Jilin University, Changchun, Jilin, China.
 
-Work experience
+Award & Honnors
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,14 +26,14 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PC member
+  * The Fifth International Symposium on Sensor-Cloud Systems (SCS’19)
+* Reviewer:
+  *  IEEE Access
+  *  IEEE Transactions on Mobile Computing (TMC)
+  *  Peer-to-Peer Networking and Applications
 
 Publications
 ======
