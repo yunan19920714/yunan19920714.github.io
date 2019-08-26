@@ -38,7 +38,7 @@ Service
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include http://www.spaccs.org/SCS2019/ %}
   {% endfor %}</ul>
   
 Talks
