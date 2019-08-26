@@ -30,7 +30,6 @@ Service
 ======
 * PC member
   * The Fifth International Symposium on Sensor-Cloud Systems (SCS’19)
-  {% http://www.spaccs.org/SCS2019/ %}
 * Reviewer:
   *  IEEE Access
   *  IEEE Transactions on Mobile Computing (TMC)
