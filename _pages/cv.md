@@ -36,5 +36,5 @@ Service
 
 Publications
 ======
-* $\color{red}{[INFOCOM 2018]}$ Nan Yu, Haipeng Dai, Alex X. Liu and Bingchuan Tian. Placement of Connected Wireless Chargers. In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. Acceptance rate: 309/1606 = 19.2%.
+* <font color=#0099ff size=5>颜色</font>$\color{red}{[INFOCOM 2018]}$ Nan Yu, Haipeng Dai, Alex X. Liu and Bingchuan Tian. Placement of Connected Wireless Chargers. In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. Acceptance rate: 309/1606 = 19.2%.
   
