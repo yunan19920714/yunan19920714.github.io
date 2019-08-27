@@ -45,8 +45,8 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in http://cs.nju.edu.cn %}
+    {% include http://cs.nju.edu.cn %}
   {% endfor %}</ul>
   
 Teaching
