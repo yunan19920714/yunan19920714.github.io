@@ -15,7 +15,7 @@ Education
 <u><a href="{{http://cs.nju.edu.cn/}}">Department of Computer Science and Technology</a>.</u>
 , Nanjing University,
 Nanjing, Jiangsu, China.
-{% include author.googlescholar %}
+{% include http://cs.nju.edu.cn/ %}
 <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 * 2011.09-2015.06: B.S., Computer Science and Technology, Jilin University, Changchun, Jilin, China.
 
