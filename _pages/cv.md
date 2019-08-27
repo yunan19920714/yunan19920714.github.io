@@ -52,7 +52,7 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% http://cs.nju.edu.cn.html %}
   {% endfor %}</ul>
   
 Service and leadership
