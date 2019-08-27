@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2015.09-Present: Ph.D. candidate (direct doctor program),  <u><a href="{{http://cs.nju.edu.cn/}}">Department of Computer Science and Technology</a>.</u>
+* 2015.09-Present: Ph.D. candidate (direct doctor program), 
+<u><a href="{{http://cs.nju.edu.cn/}}">Department of Computer Science and Technology</a>.</u>
 , Nanjing University,
 Nanjing, Jiangsu, China.
 <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -40,9 +41,7 @@ Service
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include http://www.spaccs.org/SCS2019/ %}
-  {% endfor %}</ul>
+ 
   
 Talks
 ======
