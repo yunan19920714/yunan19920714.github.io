@@ -4,11 +4,10 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /Nan Yu/
+  - /Nan Yu.html
 ---
-Nan Yu   于楠
-======
+
 Contact
 ======
 nanyu@smail.nju.edu.cn  or yunan19920714@163.com
