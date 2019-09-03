@@ -19,18 +19,17 @@ Nanjing, Jiangsu 210023, China
 
 Biography
 ======
-* 2019.11-Present: Visiting scholar, [Department of Computer Science and Engineering](https://www.cs.umn.edu/), University of Minnesota, Minneapolis, Minnesota, USA
+* 2019.11-Present: Visiting scholar, [Department of Computer Science and Engineering](https://www.cs.umn.edu/), University of Minnesota, Minneapolis, Minnesota, USA <br>
   Supervisor: Professor [Tian He](https://www-users.cs.umn.edu/~tianhe/)
 * 2015.09-Present: Ph.D. candidate (direct doctor program), 
-[Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn), Nanjing, Jiangsu, China.
+[Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn), Nanjing, Jiangsu, China.<br>
   Supervisor: Professor [Guihai Chen](http://cs.nju.edu.cn/gchen), Research Assistant [Haipeng Dai](http://cs.nju.edu.cn/daihp/)
 * 2011.09-2015.06: B.S., [School Computer Science and Technology](http://ccst.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/), Changchun, Jilin, China.
 
 Research Interests
 ======
 * Device-free Sensing and Location.
-* Wireless Power Transfer Technology
-  
+* Wireless Power Transfer Technology <br> 
   ---Connected Wireless Charging Network
 
 Publications
