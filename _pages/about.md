@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Nan Yu"
+excerpt: "Nan Yu"
 author_profile: true
 redirect_from: 
   - /Nan Yu/
   - /Nan Yu.html
 ---
+
 
 Contact
 ======
@@ -29,6 +30,7 @@ Research Interests
 ======
 * Device-free Sensing and Location.
 * Wireless Power Transfer Technology
+  
   ---Connected Wireless Charging Network
 
 Publications
