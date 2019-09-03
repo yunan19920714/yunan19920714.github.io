@@ -39,13 +39,13 @@ Projects
 * 2019.01-Present: Research on task-level scheduling algorithm for wireless charger network in complex environment. (participate)
 * 2018.07-Present: Research on Task Scheduling Algorithm for Wireless Charging Network. (Graduate Research Inno-
 vation Program of Jiangsu Province, host)
-* 2015.12-2016.12: Huawei HIRP Project.
 * 2016.01-2018.12: Optimizing Wireless Rechargeable Sensor Network System with Guaranteed Human Safety.  (participate)
+* 2015.12-2016.12: Huawei HIRP Project.
 
 Publications
 ======
-* $\color{red}{[INFOCOM]}$ **Nan Yu**, Haipeng Dai, Alex X. Liu and Bingchuan Tian. [Placement of Connected Wireless Chargers.] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485934)In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. Acceptance rate: 309/1606 = 19.2%.
-* $\color{red}{[Ubicomp]}$ **Nan Yu**, Wei Wang, Alex X. Liu and Lingtao Kong. [QGesture: Quantifying Gesture Distance and Direction with WiFi Signals.](http://delivery.acm.org/10.1145/3200000/3191783/a51-Yu.pdf ip=131.212.251.41&id=3191783&acc=ACTIVE%20SERVICE&key=70F2FDC0A279768C%2E3D342327617A783A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1567526381_563dd38fe65726b992ea82daa9654721) In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiCOMP), Volume 2 ,Issue 1, Article No. 51, March 2018.
+* $\color{red}{[INFOCOM]}$ **Nan Yu**, Haipeng Dai, Alex X. Liu and Bingchuan Tian. [Placement of Connected Wireless Chargers.](https://ieeexplore.ieee.org/abstract/document/8485934) In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. Acceptance rate: 309/1606 = 19.2%.
+* $\color{red}{[Ubicomp]}$ **Nan Yu**, Wei Wang, Alex X. Liu and Lingtao Kong. [QGesture: Quantifying Gesture Distance and Direction with WiFi Signals.](https://dl.acm.org/citation.cfm?id=3191783) In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiCOMP), Volume 2 ,Issue 1, Article No. 51, March 2018.
 * $\color{red}{[Springer]}$ Haipeng Dai, **Nan Yu**, Alex X. Liu, Bingchuan Tian and Chen, Guihai. [Wireless Charger Deployment with Communication Constraint.](https://link.springer.com/content/pdf/10.1007%2F978-3-319-32903-1_271-1.pdf) In Proceedings of book Encyclopedia of Wireless Networks, Springer International Publishing.
 * $\color{red}{[TMC]}$ Xiaoyu Wang, Haipeng Dai, Wang Weijun, Jiaqi Zheng, **Nan Yu**, Guihai Chen, Wanchun Dou, Xiaobing Wu. [Practical Heterogeneous Wireless Charger Placement with Obstacles.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8714083) IEEE Transactions on Mobile Computing (TMC), 2019. TBD
   
